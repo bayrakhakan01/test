@@ -1,5 +1,2 @@
-# Hi
-# hello
-# new branch
-# hakan baba <3 andrea ana
-
+# Hi 
+# this is my first file to push the remote repository
