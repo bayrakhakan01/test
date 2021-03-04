@@ -5,5 +5,5 @@
 # well done Git
 # 13 bos gecti
 # 12 css calistim
-# 11
+# 11 css grid
 # gun kaldi
