@@ -6,5 +6,8 @@
 # 13 bos gecti
 # 12 css calistim
 # 11 css grid
-# 10
+# 10 css
+# 09 Css
+# 08 CSS Blog Article Cards( HTML CSS JS)
+# 07
 # gun kaldi
