@@ -10,4 +10,5 @@
 # 09 Css
 # 08 CSS Blog Article Cards( HTML CSS JS)
 # 07 Css footer calistim
+# 06
 # gun kaldi
