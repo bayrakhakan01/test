@@ -13,4 +13,5 @@
 # 06 Css basic calistim
 # 05 bugun dinlendim ve inherit in css deki yerinin ne oldugunu kesvettim
 # 04 Css box  pseudo class margin border padding content nedir onlari iyice ogrendim 
+# 03
 # gun kaldi
