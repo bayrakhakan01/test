@@ -15,4 +15,5 @@
 # 04 Css box  pseudo class margin border padding content nedir onlari iyice ogrendim 
 # 03 Css
 # 02 Css navbar calisiyorum
+# 01
 # gun kaldi
