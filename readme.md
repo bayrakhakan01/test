@@ -17,5 +17,7 @@
 # 02 Css navbar calisiyorum
 # 01 today i complated 3 months of work Css calsitim
 # 90 Css egitimlerine devam etim
-
+# 89 Css egitimlerine devam etim
+# 88 Css egitimlerine devam etim
+# 87 
 # gun kaldi
