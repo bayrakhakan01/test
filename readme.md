@@ -20,5 +20,6 @@
 # 89 Css egitimlerine devam etim
 # 88 Css egitimlerine devam etim
 # 87 Node.js derslerine basladim
-# 86
+# 86 Node.js derslerine devam
+# 85 
 # gun kaldi
