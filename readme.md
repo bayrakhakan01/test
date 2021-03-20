@@ -22,4 +22,5 @@
 # 87 Node.js derslerine basladim
 # 86 Node.js derslerine devam
 # 85 Node.js derslerine devam
+# 84
 # gun kaldi
