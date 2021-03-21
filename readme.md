@@ -16,11 +16,13 @@
 # 03 Css
 # 02 Css navbar calisiyorum
 # 01 today i complated 3 months of work Css calsitim
+
 # 90 Css egitimlerine devam etim
 # 89 Css egitimlerine devam etim
 # 88 Css egitimlerine devam etim
 # 87 Node.js derslerine basladim
 # 86 Node.js derslerine devam
-# 85 Node.js derslerine devam
-# 84
+# 85 Node.js derslerine devam & Eelekttrom derslerine basladim
+# 84  Node.js derslerine devam & Eelekttrom derslerine devam
+# 83
 # gun kaldi
