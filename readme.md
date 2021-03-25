@@ -25,5 +25,8 @@
 # 85 Node.js derslerine devam & Electrom derslerine basladim
 # 84 Node.js derslerine devam & Electrom derslerine devam
 # 83 Node.js derslerine devam & Electrom derslerine devam
-# 82
+# 82 Node.js derslerine devam & Electrom derslerine devam
+# 81 Node.js derslerine devam & Electrom derslerine devam
+# 80 Node.js derslerine devam & Electrom derslerine devam
+# 79
 # gun kaldi
