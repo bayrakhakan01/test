@@ -30,4 +30,5 @@
 # 80 Node.js derslerine devam & Electrom derslerine devam
 # 79 jQuery Rehab - Selecting Elements derslerine basladim
 # 78
+# 79
 # gun kaldi
