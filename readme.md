@@ -28,9 +28,11 @@
 # 82 Node.js derslerine devam & Electrom derslerine devam
 # 81 Node.js derslerine devam & Electrom derslerine devam
 # 80 Node.js derslerine devam & Electrom derslerine devam
-# 79 jQuery Rehab - Selecting Elements derslerine basladim
-# 78 jQuery Rehab - Selecting Elements derslerine devam
-# 77 jQuery Rehab - Selecting Elements dersleri bitti 
+# 79 Node.js derslerine devam & Electrom derslerine devam
+# 78 jQuery Rehab - Selecting Elements derslerine basladim
+# 77 jQuery Rehab - Selecting Elements derslerine devam
+# 76 jQuery Rehab - Selecting Elements dersleri bitti 
 #    React JS -  dersleri basladim
-# 76
+# 75 React JS - dersleri devam - 30.03.21
+# 74
 # gun kaldi
