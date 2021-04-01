@@ -34,5 +34,6 @@
 # 76 jQuery Rehab - Selecting Elements dersleri bitti 
 #    React JS -  dersleri basladim
 # 75 React JS - dersleri devam - 30.03.21
-# 74
+# 74 React JS - dersleri devam - 31.03.21
+# 73 React JS - dersleri devam - 01.04.21
 # gun kaldi
