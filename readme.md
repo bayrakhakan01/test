@@ -47,6 +47,9 @@
 # 64 React JS - dersleri devam - 10.04.21
 # 63 React JS - dersleri ara - 11.04.21
 # 62 React JS - dersleri devam - 12.04.21
-# 61 React JS - dersleri devam - 12.04.21
-# 60 React JS - dersleri devam - 12.04.21
+# 61 React JS - dersleri devam - 13.04.21
+# 60 React JS - dersleri devam - 14.04.21
+# 59 React JS - dersleri devam - 15.04.21
+# 58 React JS - dersleri devam - 16.04.21
+# 57 React JS - dersleri devam - 17.04.21
 # gun kaldi
