@@ -57,4 +57,5 @@
 # 54 React JS - dersleri devam - 20.04.21
 # 53 I started building a Recipe App With React today - 21.04.21
 # 52 I started building a Recipe App With React today tekrar - 22.04.21
+# 46 I started building a Recipe App With React today tekrar - 28.04.21
 # gun kaldi
