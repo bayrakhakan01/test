@@ -58,4 +58,6 @@
 # 53 I started building a Recipe App With React today - 21.04.21
 # 52 I started building a Recipe App With React today tekrar - 22.04.21
 # 46 I started building a Recipe App With React today tekrar - 28.04.21
+# 39 I youtube videolar cektik kanal hazirlik asamasinda -05.05.21
+
 # gun kaldi
