@@ -61,6 +61,6 @@
 # 39 I youtube videolar cektik kanal hazirlik asamasinda -05.05.21
 # 25 Sweet puppy game -19.05.21
 # 20 Sweet puppy game bitmek uzere -24.05.21
-
+# 17 Sweet puppy game bitmek uzere -27.05.21
 
 # gun kaldi
