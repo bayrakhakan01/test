@@ -65,4 +65,4 @@
 # 14 Sweet puppy game bitmek uzere -30.05.21
 # 13 Sweet puppy game bitmek uzere -31.05.21
 # 11 Sweet puppy game bitti desktop app yapilacak -02.06.21
-# gun kaldi
+# 5 gun kaldi -08.06.21
