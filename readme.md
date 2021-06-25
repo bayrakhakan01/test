@@ -68,3 +68,4 @@
 # 5 gun kaldi -08.06.21
 # 4 gun kaldi -09.06.21
 # bitti  -22.06.21
+# Bugun basliyoruz 25.06.21
