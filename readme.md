@@ -71,3 +71,4 @@
 # Bugun basliyoruz 25.06.21
 # devam ediyoruz 27.06.21
 # devam ediyoruz 02.07.21
+# C++ a basladim 22.08.21
